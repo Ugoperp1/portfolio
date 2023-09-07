@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(image/bckground.jpg);
+    color: #fff;
+
+}
+.h1{
+    color: bisque;
+    padding: 40px;
+    padding-top: 0px;
+    font-size: 80px;
+    margin: 0px;
+    margin-top: 0px;
+    font-style: italic;
+    text-shadow: 2px 4px crimson;
+    font-weight: lighter;
+    
+}
+
+
+.p1{
+    padding-left: 80px;
+    color:  crimson;
+    
+   }
+
+.h2{
+    padding-left: 95px;
+    font-size: 50px;
+    color: #fff;
+      }
+      .h6{
+        padding-left: 95px;
+        font-size: 40px;
+        color: lightgray;
+       }
+
+.p2{
+    padding-left: 95px;
+    font-size: 20px;
+    margin-top: 12px;
+    color: lightcyan;
+}
+.img1{
+    width: 500px;
+    height: 300px;
+    padding-left: 90px;
+    margin-top: 190px;
+}
+    
+
+.h3{
+
+    margin-top: -300px;
+    padding-left: 650px;
+    color: crimson;
+    
+    }
+    
+.p3{
+    padding-left: 650px;
+    font-size: 18px;
+    color: #fff;
+     }
+.ul{
+    padding-left: 690px;
+    color: darkcyan;
+    font-size: 15px;
+
+    }
+
+.submit{
+    margin: 50px auto;
+    margin-left: 650px;
+    width: fit-content;
+    border-radius: 25px;
+    border: 1px solid darkcyan ;
+    padding: 14px 50px;
+    background-color: darkcyan;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.h4{
+    padding-left: 85px;
+    font-size: 20px;
+    margin-top: -40px;
+    color: #fff;
+    text-decoration: none;
+  }
+.h5{
+    padding-left: 560px;
+    margin-top: 310px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background-color:darkcyan;
+    text-decoration: none;
+}
+.img2{
+margin-left:580px ;
+margin-top: 50px;
+border-radius: 50%;
+margin-bottom: 30px;
+cursor: pointer;
+
+}
+.img3{
+border-radius: 50%;
+margin-bottom: 30px;
+cursor: pointer;
+}
+.img2:hover{
+    opacity: 50%;
+    
+}
+.img3:hover{
+    opacity: 50%;
+}
