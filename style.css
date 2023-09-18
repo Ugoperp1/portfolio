@@ -200,7 +200,7 @@ cursor: pointer;
         border: 2px solid darkcyan;
         padding: 10px;
         float: right;
-        margin-right: 260px;
+        margin-right: 220px;
         font-size: 14px;
         margin-top: 20px;
         
@@ -217,7 +217,7 @@ cursor: pointer;
     }
     .h4{
         display: block;
-        margin-top:163%;
+        margin-top:173%;
         font-size: 20px;
      
     }
@@ -230,7 +230,7 @@ cursor: pointer;
         padding-left: 170px;
         margin-top: 200px;
         font-size: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 50px;
         
 
         }
@@ -239,7 +239,8 @@ cursor: pointer;
         display: block;
        float: right;
        margin-top: -1px;
-       margin-right:225px ;
+       margin-right:180px ;
+       margin-bottom: 30px;
        
     }
 
