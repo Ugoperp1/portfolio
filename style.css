@@ -128,3 +128,136 @@ cursor: pointer;
 .img3:hover{
     opacity: 50%;
 }
+
+
+@media screen and (max-width: 700px){
+    .h1{
+        display: block;
+        font-size: 40px;
+       
+
+
+    }
+    .p1{
+        display: block;
+        margin-top: -20px;
+     
+    }
+    
+    .h2{
+        display: block;
+        font-size: 25px;
+        
+        
+    }
+
+
+    .p4{
+        display: block;
+        font-size: 20px;
+        
+   }
+
+
+    .p2{
+        display: block;
+        font-size: 15px;
+        margin-bottom: 20%;
+        
+        
+    }
+
+
+    .img1{
+        display: block;
+        margin-top: 25px;
+    }
+    .h4{
+        display: block;
+        margin-top: -430px;
+        font-size: 20px;
+     
+    }
+    .h3{
+        max-width: 70%;
+        text-align: left;
+        padding-left: 100px;
+        margin-top: 80px;
+        font-size: 20px;
+    }
+    .p3{
+        max-width: 70%;
+        text-align: left;
+        padding-left: 100px ;
+        /* margin-top: -300px; */
+        font-size: 15px;
+    }
+
+    .ul{
+        max-width: 70%;
+        text-align: left;
+        padding-left: 120px ;
+        /* margin-top: -200px; */
+        font-size: 14px;
+    }
+    .submit{
+        
+        display: block;
+        /* justify-content: right; */
+        border: 2px solid darkcyan;
+        padding: 10px;
+        float: right;
+        margin-right: 260px;
+        font-size: 14px;
+        margin-bottom: 200px;
+
+       }
+
+    /* .h4{
+        display: block;
+        margin-top: -277px;
+        font-size: 15px;
+        margin-bottom: 50px;
+    } */
+    .h5{
+        display: block;
+        max-width: 70%;
+        text-align: left;
+        padding-left: 170px;
+        margin-top: 500px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        
+
+        }
+
+    .img2{
+        display: block;
+       float: right;
+       margin-top: -1px;
+       margin-right:225px ;
+       
+    }
+
+    .img3{
+        display: block;
+        float: left;
+        margin-top: -75px;
+        margin-left: 220px;
+
+    }
+    
+
+    footer{
+        display: block;
+        padding: 10px;
+        margin-top: 100px;
+        text-align: center;
+        color: #fff;
+        background-color:darkcyan;
+    
+      }
+
+    
+    
+}
