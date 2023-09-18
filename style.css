@@ -128,12 +128,11 @@ cursor: pointer;
 .img3:hover{
     opacity: 50%;
 }
-
-
 @media screen and (max-width: 700px){
     .h1{
         display: block;
-        font-size: 40px;
+        font-size: 30px;
+    
        
 
 
@@ -141,12 +140,15 @@ cursor: pointer;
     .p1{
         display: block;
         margin-top: -20px;
+        font-size: 20px;
+        margin-bottom:10px;
+       
      
     }
     
     .h2{
         display: block;
-        font-size: 25px;
+        font-size: 18px;
         
         
     }
@@ -154,42 +156,33 @@ cursor: pointer;
 
     .p4{
         display: block;
-        font-size: 20px;
+        font-size: 16px;
         
    }
 
 
     .p2{
         display: block;
-        font-size: 15px;
-        margin-bottom: 20%;
+        font-size: 14px;
+       
         
         
     }
 
-
-    .img1{
-        display: block;
-        margin-top: 25px;
-    }
-    .h4{
-        display: block;
-        margin-top: -430px;
-        font-size: 20px;
-     
-    }
     .h3{
         max-width: 70%;
         text-align: left;
         padding-left: 100px;
-        margin-top: 80px;
+        margin-top: -1100px;
         font-size: 20px;
+        margin-bottom: 10px;
+      
     }
     .p3{
         max-width: 70%;
         text-align: left;
         padding-left: 100px ;
-        /* margin-top: -300px; */
+        margin-bottom:  30px;
         font-size: 15px;
     }
 
@@ -197,7 +190,7 @@ cursor: pointer;
         max-width: 70%;
         text-align: left;
         padding-left: 120px ;
-        /* margin-top: -200px; */
+        margin-bottom: 20px;
         font-size: 14px;
     }
     .submit{
@@ -209,22 +202,33 @@ cursor: pointer;
         float: right;
         margin-right: 260px;
         font-size: 14px;
-        margin-bottom: 200px;
+        margin-top: 20px;
+        
 
        }
 
-    /* .h4{
+
+       .img1{
         display: block;
-        margin-top: -277px;
-        font-size: 15px;
-        margin-bottom: 50px;
-    } */
+        margin-top: 900px;
+        height: 330px;
+        width: 400px;
+     
+    }
+    .h4{
+        display: block;
+        margin-top:163%;
+        font-size: 20px;
+     
+    }
+
+
     .h5{
         display: block;
         max-width: 70%;
         text-align: left;
         padding-left: 170px;
-        margin-top: 500px;
+        margin-top: 200px;
         font-size: 20px;
         margin-bottom: 20px;
         
