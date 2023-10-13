@@ -1,12 +1,15 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-body{
+} */
+/* body{
     background-image: url(image/bckground.jpg);
     color: #fff;
 
+} */
+body{
+    background-color: black;
 }
 .h1{
     color: bisque;
@@ -30,26 +33,30 @@ body{
 
 .h2{
     padding-left: 95px;
+    margin-top: -12px;
     font-size: 50px;
     color: #fff;
       }
-      .h6{
-        padding-left: 95px;
-        font-size: 40px;
-        color: lightgray;
-       }
+
+.p4{
+    padding-left: 95px;
+    margin-top: -35px;
+    font-size: 40px;
+    color: lightgray;
+ }
 
 .p2{
     padding-left: 95px;
     font-size: 20px;
-    margin-top: 12px;
+    margin-top: -30px;
     color: lightcyan;
+    margin-bottom: 150px;
 }
 .img1{
     width: 500px;
     height: 300px;
     padding-left: 90px;
-    margin-top: 190px;
+    margin-top: -2px;
 }
     
 
@@ -90,33 +97,72 @@ body{
 .h4{
     padding-left: 85px;
     font-size: 20px;
-    margin-top: -40px;
+    margin-top: -100px;
     color: #fff;
     text-decoration: none;
   }
 .h5{
-    padding-left: 560px;
+    padding-left: 500px;
     margin-top: 310px;
     text-decoration: none;
     font-size: 30px;
     color: #fff;
 }
-footer{
+
+
+/* footer{
     padding: 10px;
     text-align: center;
     color: #fff;
     background-color:darkcyan;
     text-decoration: none;
+} */
+
+.facebook a {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color: black;
 }
-.img2{
-margin-left:580px ;
+
+.facebook {
+    text-align: center;
+}
+
+.fa-facebook {
+    background-color: white;
+}
+
+.fa-facebook:hover {
+    color: rgb(11, 30, 241);
+}
+
+.fa-instagram {
+    background-color: rgb(253, 253, 253);
+
+}
+
+.fa-instagram:hover {
+    color: red;
+}
+
+
+
+
+/* .img2{
+margin-left:520px ;
 margin-top: 50px;
 border-radius: 50%;
+padding-right: 15px;
 margin-bottom: 30px;
 cursor: pointer;
 
-}
-.img3{
+} */
+/* .img3{
 border-radius: 50%;
 margin-bottom: 30px;
 cursor: pointer;
@@ -127,8 +173,18 @@ cursor: pointer;
 }
 .img3:hover{
     opacity: 50%;
+} */
+footer{
+    /* padding: 5px; */
+    text-align: center;
+    color: #fff;
+    background-color:darkcyan;
+    text-decoration: none;
 }
-@media screen and (max-width: 700px){
+
+
+
+ @media screen and (max-width: 700px){
     .h1{
         display: block;
         font-size: 30px;
@@ -239,8 +295,7 @@ cursor: pointer;
         display: block;
        float: right;
        margin-top: -1px;
-       margin-right:180px ;
-       margin-bottom: 30px;
+       margin-right:225px ;
        
     }
 
